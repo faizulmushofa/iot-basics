@@ -1,12 +1,26 @@
 # Eksperimen Mandiri
 
-Dokumentasi latihan mandiri, mini-project, troubleshooting, atau oprek sensor/fitur di luar jam lab.
+Koleksi latihan mandiri, mini-project, eksplorasi sensor baru, dan troubleshooting di luar tugas praktikum lab.
 
 ## Daftar Eksperimen
 
-| No | Topik / Judul Eksperimen | Hardware Digunakan | Status |
-|---|---|---|---|
-| 01 | <!-- Contoh: Uji Coba Deep Sleep ESP32 --> | <!-- ESP32 --> | [ ] |
+| ID | Judul Proyek / Eksperimen | Hardware | Deskripsi Singkat | Status |
+|:---:|---|---|---|:---:|
+| EXP-01 | <!-- Contoh: ESP32 Deep Sleep Wakeup --> | <!-- ESP32, Button --> | <!-- Uji konsumsi daya mode sleep --> | Belum |
 
-## Catatan & Temuan
-<!-- Catat bug aneh, wiring diagram darurat, atau library yang dicoba -->
+---
+
+## Template Struktur Proyek Mandiri
+
+```text
+exp-xx-nama-proyek/
+├── circuit/         # Skema Fritzing / Wokwi / foto wiring
+├── src/             # Source code program
+└── README.md        # Latar belakang, tujuan, hasil uji, dan kendala
+```
+
+---
+
+## Log Temuan & Troubleshooting
+
+<!-- Format: [YYYY-MM-DD] [Hardware/Sensor]: Masalah -> Solusi -->
