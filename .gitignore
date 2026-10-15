@@ -6,5 +6,4 @@ build/
 .pio/
 .vscode/
 
-# Ignore materi PDF agar repo ringan & push cepat
-Materi/*.pdf
+
