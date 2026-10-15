@@ -1,0 +1,10 @@
+.DS_Store
+*.bin
+*.hex
+*.elf
+build/
+.pio/
+.vscode/
+
+# Ignore materi PDF agar repo ringan & push cepat
+Materi/*.pdf
